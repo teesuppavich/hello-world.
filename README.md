@@ -1,2 +1,1 @@
-# hello-world.
-practicing the GitHub Flow
+My name is Suppavich Rattanamanotham
